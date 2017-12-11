@@ -48,7 +48,7 @@ Please read the explanation of [Laravel Extension](https://github.com/jumilla/la
 
 ### [B] Include Versionia (Laravel)
 
-Note: Pacakge Discovery supported.
+Note: Package Discovery supported.
 
 Use [Composer](http://getcomposer.org).
 
